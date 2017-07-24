@@ -109,10 +109,3 @@ là ta có thể sử dụng js và css sau khi nén
 ```        
   * Nếu không có plugin này thì khi cài jquery xong và chạy thì trên trình duyệt chỗ console sẽ báo **$ is not defined** vì vậy để khắc phục lỗi ta chỉ cần thêm vào plugin là ok         
 * B4 và B5 tương tự.
-# Một vài thông số sau khi dùng webpack
-* Ví dụ :
-````
-Trước khi nén dung lượng tổng các file cần nén là 
-
-Sau khi nén vào file bundle.js thì dung lượng là 
-````
