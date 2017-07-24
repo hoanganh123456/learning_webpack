@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/js/app.js"],"names":[],"mappings":";;AAGA;;AACA;;AACA;;AACA;;AACA;;AACA;;AACA","file":"app.js","sourcesContent":["/**\n * Created by hoanganh on 18/07/2017.\n */\nimport '../css/style.css';\nimport '../css/tab.css';\nimport 'bootstrap/dist/css/bootstrap.css';\nimport 'jquery';\nimport './menu.js';\nimport './tab.js';\nimport './tab2.js';\n"]}
