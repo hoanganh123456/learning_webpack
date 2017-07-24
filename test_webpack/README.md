@@ -1,10 +1,10 @@
-#Giới thiệu về webpack :
+# Giới thiệu về webpack :
 
 Cùng với sự phát triển của các Framework Javascript và CSS, các website ngày càng sử dụng nhiều hơn mã Javascript, CSS giúp nâng cao trải nghiệm người dùng. Với các Framework Javascript mạnh mẽ như Vue.js, React, Angular… việc xây dựng website có tính tương tác cao, tải nhanh chóng, sử dụng mô hình ứng dụng đơn trang trở lên đơn giản. Cũng chính vì lẽ đó, số lượng các thư viện, các module sử dụng trong ứng dụng trở lên không kiểm soát nổi khi hệ thống website phình ra. Khi đó, mã nguồn cần được thiết kế sao cho quản lý được tốt là một vấn đề. Có rất nhiều các hệ thống quản lý module nổi tiếng như Browserify, RequireJS… tuy nhiên **Webpack làm tốt hơn cả** với nhiều tính năng nổi trội.
 #Bắt đầu với webpack :
 ![Image of webpack](upload/webpack.png)
 
-#Mục tiêu của Webpack :
+# Mục tiêu của Webpack :
 
 Về ý tưởng Webpack là **một công cụ đóng gói các module và các thư viện phụ thuộc thành các file tĩnh**, mục tiêu Webpack muốn đạt được là:
 
